@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 
 -->
 - 🧑🏻‍💻 Recently started [Trydent](https://github.com/oslabs-beta/trydent)
-- 🔭 I’m currently working on ... Trydent
 - 🌱 I’m currently learning ...TDD
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
