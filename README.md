@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...TDD
 
 -->
+- 🧑🏻‍💻 Recently started [Trydent](https://github.com/oslabs-beta/trydent)
 - 🔭 I’m currently working on ... Trydent
 - 🌱 I’m currently learning ...TDD
 
