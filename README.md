@@ -2,7 +2,7 @@
 <!--
 **ELDunn/ELDUNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Hi there! I'm Eric 👋
+# Hi there 👋 Let's build something!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ericldunn)
 
 ## Tech Stack:
